@@ -1,3 +1,4 @@
+![Open Source](https://badgen.net/badge/open/source/)
 # public-code
 
 A Collection of Open‑Source Utilities, Experiments, and Reference Implementations
