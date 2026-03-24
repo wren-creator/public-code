@@ -1,4 +1,6 @@
 ![Open Source](https://badgen.net/badge/open/source/)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 # public-code
 
 A Collection of Open‑Source Utilities, Experiments, and Reference Implementations
